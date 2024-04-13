@@ -8,7 +8,7 @@
 
 # Запуск
 - Клонируем репозиторий
-`git clone https://github.com/bezbozhnik/voting-system.git --config core.autocrlf=input`
+`git clone https://github.com/bezbozhnik/currency_converter.git --config core.autocrlf=input`
 - Запускаем в корневой папке проект:
 `docker-compose -f .\docker-compose.yml up -d`
 - Сервер будет доступен под URL-адресу `http://localhost:16000/api/`
